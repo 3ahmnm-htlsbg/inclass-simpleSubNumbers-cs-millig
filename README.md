@@ -16,7 +16,7 @@ WebGL (refRes: 1920x780)
 
 
 ### Necessary setup/execution steps: 
--
+none 
 
 ### Third party material: 
 Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template 
